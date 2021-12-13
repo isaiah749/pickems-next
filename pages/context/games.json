@@ -1,0 +1,208 @@
+[
+	{
+		"game1": [
+			{
+				"title": "Purdue",
+				"logo": "https://cdn.skinit.com/media/catalog/product/cache/9dbe6a0c16a5b581719a1aa389879cfc/u/n/unipurx2_4.jpg",
+				"ranking": "#15",
+				"odds": "(+115)"
+			},
+			{
+				"title": "Michigan St",
+				"logo": "https://cdn.bleacherreport.net/images/team_logos/328x328/michigan_state_football.png",
+				"ranking": "N/A",
+				"odds": "(-135)"
+			},
+			{
+				"winner": "Purdue"
+			}
+		],
+		"game2": [
+			{
+				"title": "Texas A&M",
+				"logo": "https://calendar.tamu.edu/live/image/gid/130/width/500/3128_TAM-LogoBox.jpg",
+				"ranking": "#13",
+				"odds": "(-190)"
+			},
+			{
+				"title": "Auburn",
+				"logo": "http://licensing.auburn.edu/wp-content/uploads/2020/02/Standard2.jpg",
+				"ranking": "#12",
+				"odds": "(+160)"
+			},
+			{
+				"winner": "Auburn"
+			}
+		],
+		"game3": [
+			{
+				"title": "Michigan",
+				"logo": "https://logos-download.com/wp-content/uploads/2018/01/M_Wolverines_logo.svg",
+				"ranking": "#9",
+				"odds": "(-1250)"
+			},
+			{
+				"title": "Indiana",
+				"logo": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fncaa%2F500%2F84.png",
+				"ranking": "N/A",
+				"odds": "(+750)"
+			},
+			{
+				"winner": "Michigan"
+			}
+		],
+		"game4": [
+			{
+				"title": "Louisville",
+				"logo": "https://louisville.edu/brand/downloads/avatars/cardinal-bird-2/image_preview",
+				"ranking": "N/A",
+				"odds": "(+145)"
+			},
+			{
+				"title": "Clemson",
+				"logo": "https://sportseasons.vtexassets.com/arquivos/ids/416275/Clemson-Tigers-4%E2%80%9D-Logo-Decal-88355.jpg?v=637287127896530000",
+				"ranking": "N/A",
+				"odds": "(-165)"
+			},
+			{
+				"winner": "Clemson"
+			}
+		],
+		"game5": [
+			{
+				"title": "Kentucky",
+				"logo": "https://cdn-alumnihall.celerantwebservices.com/prodimages/14768-KY-l.jpg",
+				"ranking": "N/A",
+				"odds": "(-150)"
+			},
+			{
+				"title": "Tennessee",
+				"logo": "https://cdn-alumnihall.celerantwebservices.com/prodimages/18856-TN-l.jpg",
+				"ranking": "N/A",
+				"odds": "(+130)"
+			},
+			{
+				"winner": "Kentucky"
+			}
+		],
+		"game6": [
+			{
+				"title": "Colts",
+				"logo": "https://cdn.freebiesupply.com/images/large/2x/indianapolis-colts-logo-transparent.png",
+				"ranking": "N/A",
+				"odds": "(-550)"
+			},
+			{
+				"title": "Jets",
+				"logo": "https://partycity6.scene7.com/is/image/PartyCity/_pdp_sq_?$_500x500_$&$product=PartyCity/816262",
+				"ranking": "N/A",
+				"odds": "(+140)"
+			},
+			{
+				"winner": "Colts"
+			}
+		],
+		"game7": [
+			{
+				"title": "Bengals",
+				"logo": "https://1000logos.net/wp-content/uploads/2017/08/Bengals-symbol.jpg",
+				"ranking": "N/A",
+				"odds": "(-160)"
+			},
+			{
+				"title": "Browns",
+				"logo": "https://wp.usatodaysports.com/wp-content/uploads/sites/90/2015/02/2ioheczrkmc2ibc42c9r.gif",
+				"ranking": "N/A",
+				"odds": "(+140)"
+			},
+			{
+				"winner": "Bengals"
+			}
+		],
+		"game8": [
+			{
+				"title": "Ravens",
+				"logo": "https://images.thdstatic.com/productImages/564967f1-8f54-4c5c-8b94-22a254ee2e46/svn/purple-applied-icon-wall-decals-nfop0303-64_600.jpg",
+				"ranking": "N/A",
+				"odds": "()"
+			},
+			{
+				"title": "Vikings",
+				"logo": "https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_MIN_wbg.png",
+				"ranking": "N/A",
+				"odds": "()"
+			},
+			{
+				"winner": "Ravens"
+			}
+		],
+		"game9": [
+			{
+				"title": "Panthers",
+				"logo": "https://images.thdstatic.com/productImages/57f2f6fe-e452-44c1-987e-e16b4615720a/svn/black-applied-icon-wall-decals-nfop0503-64_600.jpg",
+				"ranking": "N/A",
+				"odds": "(+140)"
+			},
+			{
+				"title": "Patriots",
+				"logo": "https://cdn.usteamcolors.com/images/nfl/new-england-patriots.svg",
+				"ranking": "N/A",
+				"odds": "(-160)"
+			},
+			{
+				"winner": "Panthers"
+			}
+		],
+		"game10": [
+			{
+				"title": "Cheifs",
+				"logo": "https://i.pinimg.com/originals/2b/a9/88/2ba988718dc30ca4e516101488860902.jpg",
+				"ranking": "N/A",
+				"odds": "(-140)"
+			},
+			{
+				"title": "Packers",
+				"logo": "https://cdn.skinit.com/media/catalog/product/cache/9dbe6a0c16a5b581719a1aa389879cfc/n/f/nfllgo18.jpg",
+				"ranking": "N/A",
+				"odds": "(+120)"
+			},
+			{
+				"winner": "Packers"
+			}
+		],
+		"game11": [
+			{
+				"title": "Rams",
+				"logo": "https://www.freepnglogos.com/uploads/rams-logo-png/transparent-los-angeles-rams-nfl-rams-news-scores-stats-rumors-8.png",
+				"ranking": "N/A",
+				"odds": "(-265)"
+			},
+			{
+				"title": "Titans",
+				"logo": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/208/files/2017/03/Tennessee-Titans.jpg",
+				"ranking": "N/A",
+				"odds": "(+215)"
+			},
+			{
+				"winner": "Rams"
+			}
+		],
+		"game12": [
+			{
+				"title": "Steelers",
+				"logo": "https://static.www.nfl.com/t_q-best/league/api/clubs/logos/PIT",
+				"ranking": "N/A",
+				"odds": "(-275)"
+			},
+			{
+				"title": "Bears",
+				"logo": "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/15/2020/08/Bears-Logo.png",
+				"ranking": "N/A",
+				"odds": "(+220)"
+			},
+			{
+				"winner": "Bears"
+			}
+		]
+	}
+]
