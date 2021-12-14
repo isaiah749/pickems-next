@@ -1,18 +1,16 @@
 import {React, useState} from 'react'
-import games from '../context/games.json'
 import Image from 'next/image'
+import data from '../context/games.json'
 
+let games;
 
-function getTeams(games) {
-    let homeTeams = [];
-    let awayTeams = [];
-    games.map((game) => (
-        <div>
-            
-        </div>
-    ))
-    
-}  
+data.map((g) => {
+    console.log(Object.values(g))
+    let values = Object.values(g)
+    games = values
+})
+
+console.log('Games', games)
 
 
 function Games() {
@@ -20,7 +18,13 @@ function Games() {
         <div>
 
 
-            {games.map((week) => {
+            {games.map((game) => (
+                <div>
+                    {game}
+                </div>
+            ))}
+
+            {/* {games.map((week) => {
                 let games = Object.values(week)
                 let game;
                 console.log('Games: ', games)
@@ -30,7 +34,7 @@ function Games() {
                 }
  
 
-            })}
+            })} */}
 
             {/* Home Team
             <div className='home-team-container'>
